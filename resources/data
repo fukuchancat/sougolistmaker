@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_171" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Account">
+    <void property="token">
+     <string>795533991541547008-o2ZjnA6xzkIRTItyrlaGYiUS8v60wTS</string>
+    </void>
+    <void property="tokenSecret">
+     <string>zxPPYRDtWcHnKNUl5tHZFkKgVHPQ6StxICk4XFNUEepEI</string>
+    </void>
+    <void property="userListId">
+     <long>799862022695317504</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Account" id="Account0">
+    <void property="token">
+     <string>445311086-obN1YGYDpkxyoGPEw53LLVwQkrMak959bSMAPlsS</string>
+    </void>
+    <void property="tokenSecret">
+     <string>4dhysrDRSPNaHJ527RLuxwrvSRYLPVUDOY0uFFiiERGm0</string>
+    </void>
+    <void property="userListId">
+     <long>793730918938619905</long>
+    </void>
+    <void property="whiteList">
+     <void method="add">
+      <long>2266834352</long>
+     </void>
+     <void method="add">
+      <long>3461098812</long>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+ <boolean>false</boolean>
+ <boolean>false</boolean>
+</java>
